@@ -50,7 +50,7 @@ export const PROJECTS = [
 
 
 export const CONTACT = {
-  address: "Greater Noida",
+  address: " New-Delhi, Delhi, India ",
   phoneNo: "+91-7838571622 ",
   email: "ghritiksingh21@gmail.com",
 };
